@@ -1,8 +1,8 @@
-Canva Design - Food Landing page
+Canva Design - Ecommerce Landing page
 
 Description
 
-This repository contains the design files for Project XYZ created using Canva. Project XYZ is a creative endeavor aimed at [https://www.canva.com/design/DAFp5moZNi8/EmjI8v2ODCpUUfjLrZq_vA/view?utm_content=DAFp5moZNi8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink].
+This repository contains the design files for Project XYZ created using Canva. Project Ecommerce Landing page is a creative endeavor aimed at https://www.canva.com/design/DAFp5moZNi8/EmjI8v2ODCpUUfjLrZq_vA/view?utm_content=DAFp5moZNi8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Preview
 
@@ -14,15 +14,15 @@ Table of Contents
 
 Repository Name
 
-Canva Design - Project XYZ
+Canva Design - Project Ecommerce Landing page
 
 Description
 
-This repository contains the design files for Project XYZ created using Canva. Project XYZ is a creative endeavor aimed at [https://www.canva.com/design/DAFp5moZNi8/EmjI8v2ODCpUUfjLrZq_vA/view?utm_content=DAFp5moZNi8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink].
+This repository contains the design files for Project Ecommerce Landing page created using Canva. Project Ecommerce Landing page is a creative endeavor aimed at https://www.canva.com/design/DAFp5moZNi8/EmjI8v2ODCpUUfjLrZq_vA/view?utm_content=DAFp5moZNi8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Preview
 
-You can view the project design on Canva using the following link: Canva Design - Project XYZ
+You can view the project design on Canva using the following link: Canva Design - Project Ecommerce Landing page
 
 Project Preview
 
@@ -38,11 +38,11 @@ Getting Started
 
 To get started with this project, you can follow these steps:
 
-Download the design files from the Canva Design - Project XYZ link.
+Download the design files from the Canva Design - Project Ecommerce Landing page link.
 If you have a Canva account, you can directly clone the design to your Canva account.
 If you don't have a Canva account, sign up for free to access the design.Usage
 
-These design files are provided for reference and inspiration for the Project XYZ. You are welcome to use and modify them according to the terms of the license (if any) provided in the repository.
+These design files are provided for reference and inspiration for the Project Ecommerce Landing page. You are welcome to use and modify them according to the terms of the license (if any) provided in the repository.
 
 Please note that the design files are created using Canva, and you'll need a Canva account to open and edit them. Feel free to customize the design to suit your specific needs or use them as a base for your own project.
 
